@@ -1,0 +1,2 @@
+npm i validator 
+es una extension para valñidar correos electronicos

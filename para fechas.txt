@@ -1,0 +1,3 @@
+si quiero ingresar fechas es perfecto momentjs
+https://momentjs.com/
+instalar npm install moment --save

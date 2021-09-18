@@ -1,0 +1,5 @@
+swit alert 2 https://sweetalert2.github.io/
+para mostrar mensjaes de eroro de la consola a la pantalla del usuario
+
+
+instalar npm install sweetalert2
